@@ -61,61 +61,25 @@ Atuo como Desenvolvedor e Gerente de Projetos e Desenvolvedor de Software no Sen
 
 ### ⚙️ DevOps & Tools
 
-<img 
-    align="left" 
-    alt="Docker" 
-    title="Docker"
-    height="30px" 
-    style="padding-right: 10px;" 
-    src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker" 
-/>
+<img align="left" alt="Docker" title="Docker" width="30px" style="padding-right: 10px;" 
+src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" />
 
-<img 
-    align="left" 
-    alt="Vercel" 
-    title="Vercel"
-    height="30px" 
-    style="padding-right: 10px;" 
-    src="https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel" 
-/>
+<img align="left" alt="Vercel" title="Vercel" width="30px" style="padding-right: 10px;" 
+src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vercel/vercel-original.svg" />
 
-<img 
-    align="left" 
-    alt="AWS" 
-    title="AWS"
-    height="30px" 
-    style="padding-right: 10px;" 
-    src="https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazonaws" 
-/>
+<img align="left" alt="AWS" title="AWS" width="30px" style="padding-right: 10px;" 
+src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" />
 
-<img 
-    align="left" 
-    alt="Git" 
-    title="Git"
-    height="30px" 
-    style="padding-right: 10px;" 
-    src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git" 
-/>
+<img align="left" alt="Git" title="Git" width="30px" style="padding-right: 10px;" 
+src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" />
 
-<img 
-    align="left" 
-    alt="Insomnia" 
-    title="Insomnia"
-    height="30px" 
-    style="padding-right: 10px;" 
-    src="https://img.shields.io/badge/Insomnia-5849BE?style=for-the-badge&logo=insomnia" 
-/>
+<img align="left" alt="Insomnia" title="Insomnia" width="30px" style="padding-right: 10px;" 
+src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/insomnia/insomnia-original.svg" />
 
-<img 
-    align="left" 
-    alt="Figma" 
-    title="Figma"
-    height="30px" 
-    style="padding-right: 10px;" 
-    src="https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma" 
-/>
+<img align="left" alt="Figma" title="Figma" width="30px" style="padding-right: 10px;" 
+src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg" />
 
-<br/>
+<br clear="both"/>
 <br/>
 
 
